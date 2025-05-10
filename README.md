@@ -1,7 +1,10 @@
 # Screenshot-to-Code
 
-Upload a screenshot and convert it to clean HTML & CSS, including Figma frames. Runs directly with the GPT-4 API – no Plus plan needed!
-[![Watch the video](https://img.youtube.com/vi/X2BYD6TrREU/hqdefault.jpg)](https://youtu.be/X2BYD6TrREU)
+Upload a screenshot and convert it to clean HTML & CSS, including Figma frames. Runs directly with the GPT-4 API 
+no Plus plan needed!
+<a href="https://youtu.be/X2BYD6TrREU" target="_blank">
+    <img src="https://img.youtube.com/vi/X2BYD6TrREU/hqdefault.jpg" alt="Watch the video">
+</a>
 
 **for more Accurate Conversions**: Custom-trained AI model with 95% accuracy.
  **Try for Free**: Visit [Mantiscode](https://mantiscode.com).
@@ -56,7 +59,9 @@ Upload a screenshot and convert it to clean HTML & CSS, including Figma frames. 
 5. Your HTML/CSS code will be generated within 1-2 minutes.
 
 ## FIGMA TO HTML/CSS
-[![Watch the video](https://img.youtube.com/vi/zkr-rGoi4NA/hqdefault.jpg)](https://youtu.be/zkr-rGoi4NA)
+<a href="https://youtu.be/zkr-rGoi4NA" target="_blank">
+    <img src="https://img.youtube.com/vi/zkr-rGoi4NA/hqdefault.jpg" alt="Watch the video">
+</a>
 
 ## Troubleshooting
 
