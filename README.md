@@ -75,6 +75,5 @@ Contributions are welcome! Feel free to fork the project and submit pull request
 
 This project is licensed under the MIT License.
 
-[mantiscode.com](https://mantiscode.com)
 
 
