@@ -2,9 +2,6 @@
 
 Upload a screenshot and convert it to clean HTML & CSS, including Figma frames. Runs directly with the GPT-4 API 
 no Plus plan needed!
-<a href="https://youtu.be/X2BYD6TrREU" target="_blank">
-    <img src="https://img.youtube.com/vi/X2BYD6TrREU/hqdefault.jpg" alt="Watch the video">
-</a>
 
 **for more Accurate Conversions**: Custom-trained AI model with 95% accuracy.
  **Try for Free**: Visit [Mantiscode](https://mantiscode.com).
@@ -61,6 +58,11 @@ no Plus plan needed!
 ## FIGMA TO HTML/CSS
 <a href="https://youtu.be/zkr-rGoi4NA" target="_blank">
     <img src="https://img.youtube.com/vi/zkr-rGoi4NA/hqdefault.jpg" alt="Watch the video">
+</a>
+
+## BETTER CONVERSTIONS WITH TRAINED MODEL 
+<a href="https://youtu.be/X2BYD6TrREU" target="_blank">
+    <img src="https://img.youtube.com/vi/X2BYD6TrREU/hqdefault.jpg" alt="Watch the video">
 </a>
 
 ## Troubleshooting
